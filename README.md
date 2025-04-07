@@ -6,9 +6,9 @@ Code for paper: "Helmets Labeling Crops: Kenya Crop Type Dataset Created via Hel
 
 ### Repository Structure
 
-`notebooks/` contains code for transforming GoPro photos into a crop type dataset.
+`notebooks/` Code for transforming GoPro photos into a crop type dataset. We recommend running each notebook in Google Colab.
 
-`gee/` contains code for visualizing and creating a maize map using the crop type dataset.
+`gee/` Code for visualizing and creating a maize map using the crop type dataset. The code can be run on Google Earth Engine by cloning our GEE repository: https://code.earthengine.google.com/?accept_repo=users/izvonkov/helmets-kenya-public
 
 ### Crop Type Dataset
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15133324.svg)](https://doi.org/10.5281/zenodo.15133324)
