@@ -1,4 +1,4 @@
-# helmets-kenya
+# Helmets Labeling Crops: Kenya
 
 <img src="assets/images/Helmet_v3.png" />
 
