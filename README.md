@@ -1,6 +1,6 @@
 # Helmets Labeling Crops: Kenya
 
-<img src="assets/images/Helmet_v3.png" />
+<img src="assets/images/Helmets_v3.png" />
 
 Code for paper: "Helmets Labeling Crops: Kenya Crop Type Dataset Created via Helmet-Mounted Cameras and Deep Learning".
 
