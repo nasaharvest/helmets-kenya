@@ -16,6 +16,9 @@ The pipeline of generating a crop type dataset involves the following steps:
 5. Reviewed KMZ files are converted into a csv file ([notebooks/2_CropKMZtoCSV.ipynb](https://github.com/nasaharvest/helmets-kenya/blob/main/notebooks/2_CropKMZtoCSV.ipynb))
 6. CSV files are combined into a single Kenya dataset ([notebooks/3_Kenya_dataset_publish.ipynb](https://github.com/nasaharvest/helmets-kenya/blob/main/notebooks/3_Kenya_dataset_publish.ipynb))
 
+### Machine Learning Models
+Scripts for training and validating the binary CropNop model and Crop Segmentation model is found in the [ML folder](https://github.com/nasaharvest/helmets-kenya/blob/main/ML).
+
 ### Working with the points
 [Google Earth Engine repository](https://code.earthengine.google.com/?accept_repo=users/izvonkov/helmets-kenya-public)
 1. Crop type points visualized in GEE: [gee/1_all_checked_points.js](https://github.com/nasaharvest/helmets-kenya/blob/main/gee/1_all_checked_points.js)
