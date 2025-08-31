@@ -1,8 +1,7 @@
 # Helmets Labeling Crops: Kenya
 
 <img src="assets/images/Helmets_v3.png" />
-
-Code for paper: <a href="https://eartharxiv.org/repository/view/9040/">Helmets Labeling Crops: Kenya Crop Type Dataset Created via Helmet-Mounted Cameras and Deep Learning</a>
+Code for paper: <a href="https://www.nature.com/articles/s41597-025-05762-7">Helmets Labeling Crops: Kenya Crop Type Dataset Created via Helmet-Mounted Cameras and Deep Learning</a>
 
 ### Crop Type Dataset
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15133324.svg)](https://zenodo.org/records/15133324)
